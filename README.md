@@ -71,9 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Pomodoro-timer
 >>>>>>> f13100d8c0521a8297634ff77546a7ebbe4d7743
->>>>>>>
->>>>>>> These are the Screenshots of the project which demonstrate the pomodoro timer
->>>>>>> ![p2](https://github.com/user-attachments/assets/5cfe6dcc-8166-4f43-996e-6975281184f2)
+These are the Screenshots of the project which demonstrate the pomodoro timer
+
 >>>>>>> 
 ![p1](https://github.com/user-attachments/assets/63c69df1-b18c-409e-8e39-e24badd4c375)
+>>>>>>> 
+![p2](https://github.com/user-attachments/assets/020a9a1f-1916-4552-bc96-09997488013c)
 
