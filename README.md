@@ -70,7 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Pomodoro-timer
->>>>>>> f13100d8c0521a8297634ff77546a7ebbe4d7743
 These are the Screenshots of the project which demonstrate the pomodoro timer
 
 >>>>>>> 
